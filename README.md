@@ -21,4 +21,6 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+Fun fact about myself: I can't whistle using my mouth but I can using my hands.
+
 Thanks for stopping by!
